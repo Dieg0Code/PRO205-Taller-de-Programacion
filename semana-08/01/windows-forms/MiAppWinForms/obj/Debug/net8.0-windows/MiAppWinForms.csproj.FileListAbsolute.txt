@@ -1,0 +1,14 @@
+C:\dojo\MiAppWinForms\bin\Debug\net8.0-windows\MiAppWinForms.exe
+C:\dojo\MiAppWinForms\bin\Debug\net8.0-windows\MiAppWinForms.deps.json
+C:\dojo\MiAppWinForms\bin\Debug\net8.0-windows\MiAppWinForms.runtimeconfig.json
+C:\dojo\MiAppWinForms\bin\Debug\net8.0-windows\MiAppWinForms.dll
+C:\dojo\MiAppWinForms\bin\Debug\net8.0-windows\MiAppWinForms.pdb
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.AssemblyInfoInputs.cache
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.AssemblyInfo.cs
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.csproj.CoreCompileInputs.cache
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.dll
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\refint\MiAppWinForms.dll
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.pdb
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\MiAppWinForms.genruntimeconfig.cache
+C:\dojo\MiAppWinForms\obj\Debug\net8.0-windows\ref\MiAppWinForms.dll
