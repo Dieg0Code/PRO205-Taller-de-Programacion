@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj": {}
+    "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj": {}
   },
   "projects": {
-    "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj": {
+    "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj",
+        "projectUniqueName": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj",
         "projectName": "MiAppWinFormsSimple",
-        "projectPath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj",
+        "projectPath": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj",
         "packagesPath": "C:\\Users\\Diego Obando\\.nuget\\packages\\",
-        "outputPath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\obj\\",
+        "outputPath": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego Obando\\AppData\\Roaming\\NuGet\\NuGet.Config",

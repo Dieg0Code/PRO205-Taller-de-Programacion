@@ -1698,19 +1698,6 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "MiAppWinFormsSimple/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/MiAppWinFormsSimple.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MiAppWinFormsSimple.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
       }
     }
   },
@@ -5482,16 +5469,10 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "MiAppWinFormsSimple/1.0.0": {
-      "type": "project",
-      "path": "../../windows-forms/MiAppWinFormsSimple/MiAppWinFormsSimple.csproj",
-      "msbuildProject": "../../windows-forms/MiAppWinFormsSimple/MiAppWinFormsSimple.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
-      "MiAppWinFormsSimple >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.10.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.5.3",
@@ -5504,11 +5485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
+      "projectUniqueName": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\testing\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
       "projectName": "MiApp.Tests",
-      "projectPath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
+      "projectPath": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\testing\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
       "packagesPath": "C:\\Users\\Diego Obando\\.nuget\\packages\\",
-      "outputPath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\tests\\MiApp.Tests\\obj\\",
+      "outputPath": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\testing\\tests\\MiApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego Obando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5524,11 +5505,7 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "projectReferences": {
-            "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj": {
-              "projectPath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\windows-forms\\MiAppWinFormsSimple\\MiAppWinFormsSimple.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

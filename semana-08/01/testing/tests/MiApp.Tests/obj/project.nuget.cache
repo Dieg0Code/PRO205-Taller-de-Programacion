@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mrkm6u/bmfM=",
+  "dgSpecHash": "FTeOfdqrYpg=",
   "success": true,
-  "projectFilePath": "C:\\dojo\\clases-aiep\\01_taller_de_programacion\\clases\\semana-08\\01\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
+  "projectFilePath": "C:\\dojo\\PRO205-Taller-de-programacion\\semana-08\\01\\testing\\tests\\MiApp.Tests\\MiApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Obando\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Diego Obando\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
